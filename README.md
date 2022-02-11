@@ -1,11 +1,15 @@
+<!-- "Hero" Header -->
+<div align="center">
+  <img src="https://github.com/mothblue11111/mothblue1111/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+  <br />
+  <br />
 
-<!DOCTYPE html>
-<html>
-<title>HTML Tutorial</title>
-<body>
+</div>
 
-<h1>This is a heading</h1>
-<p>This is a paragraph.</p>
+<!-- Footer -->
 
-</body>
-</html>
+<div align="center">
+
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/mothblue1111/mothblue1111/master/images/marquee.svg" />
+<br />
+</div>
