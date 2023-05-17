@@ -8,7 +8,7 @@
 <h1 align="center">
   Seasoned Software Engineer</h1>
 
-<p align="left" style="font-family: Brush Script MT;"> <img src="https://komarev.com/ghpvc/?username=chinmay29hub&label=Profile%20views&color=0e75b6&style=flat" alt="Super-Smile" /> </p>
+<p align="left" style="font-family: Brush Script MT;"> <img src="https://komarev.com/ghpvc/?username=mothblue1111&label=Profile%20views&color=0e75b6&style=flat" alt="True Solution" /> </p>
 <p align="center" display="flex">
   <a href="https://www.hackerrank.com/certificates/092e6ab52b33">
     <img width="30%" src="images/React-certificates.png" />
