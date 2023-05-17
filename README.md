@@ -13,7 +13,9 @@
   <a href="https://www.hackerrank.com/certificates/092e6ab52b33">
     <img width="30%" src="images/React-certificates.png" />
   </a>
-  
+  <a href="https://www.hackerrank.com/certificates/3d999001aec1">
+    <img width="30%" src="images/Javascript-certificate.png" />
+  </a>
 </p>
 <p align="center" display="flex">
   
